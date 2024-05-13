@@ -1,6 +1,6 @@
 
-# CodeGenerator.java
-CodeGenerator is a simple translator that translates a mermaid code file into java code file, but not all data types could be translated.
+# HtmlParser.java
+HtmlParser.java is a simple crawler and can also analyze the stock values without importing any Math librabry.
 
 ## Usage
 For Mac
